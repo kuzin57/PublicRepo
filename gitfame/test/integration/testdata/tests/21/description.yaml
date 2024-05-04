@@ -1,5 +1,0 @@
-# go-cmp, HEAD, exclude
-
-name: go-cmp HEAD exclude
-args: [--format, csv, --exclude, 'cmp/cmpopts/*,cmp/internal/testprotos/*,cmp/testdata/*,gopher/*']
-bundle: go-cmp.bundle

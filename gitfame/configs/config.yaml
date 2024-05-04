@@ -1,6 +1,0 @@
-jobs:
-  read_dir:
-    parallel: 20
-  
-  parse_file:
-    parallel: 30
